@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem name="项目病种成本"
+        id="menu_disease_cost"
+        groups="disease_cost.group_user">
+        <menuitem id="menu_disease_cost_system_management" name="系统管理">
+        </menuitem>
+        <menuitem id="menu_disease_cost_item_cost" name="项目成本">
+        </menuitem>
+        <menuitem id="menu_disease_cost_disease_cost" name="病种成本">
+        </menuitem>
+        <menuitem id="menu_disease_cost_drg_cost" name="DRG成本">
+        </menuitem>
+    </menuitem>
+</odoo>
